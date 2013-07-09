@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Sticky Note Demo</title>
+    <script src="Scripts/jquery-1.5.1.min.js"></script>
+    <script src="Scripts/StickyNote.js"></script>
+    <link href="Styles/StickyNote.css" rel="stylesheet" />
+    <script type="text/javascript">
+        $(document).ready(function () {
+            var s = $("#Desktop").setAsStickyNoteWorkSpace({
+                onDirty: function (note) {
+                    alert('this note became dirty now.');
+                },
+                onClose: function (note) {
+                    alert('closing');
+                },
+                onCreate: function (note) {
+                    
+                }
+            });
+        });
+    </script>
+</head>
+<body>
+    <div id="Desktop" style="height: 90%; width: 90%;">
+    </div>
+</body>
+</html>

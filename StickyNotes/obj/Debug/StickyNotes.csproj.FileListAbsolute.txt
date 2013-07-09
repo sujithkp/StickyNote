@@ -1,0 +1,10 @@
+D:\Projects\StickyNotes\trunk\StickyNotes\StickyNotes\bin\StickyNotes.dll
+D:\Projects\StickyNotes\trunk\StickyNotes\StickyNotes\bin\StickyNotes.pdb
+D:\Projects\StickyNotes\trunk\StickyNotes\StickyNotes\obj\Debug\StickyNotes.csprojResolveAssemblyReference.cache
+D:\Projects\StickyNotes\trunk\StickyNotes\StickyNotes\obj\Debug\StickyNotes.dll
+D:\Projects\StickyNotes\trunk\StickyNotes\StickyNotes\obj\Debug\StickyNotes.pdb
+D:\Projects\StickyNotes\trunk\StickyNotes\bin\StickyNotes.dll
+D:\Projects\StickyNotes\trunk\StickyNotes\bin\StickyNotes.pdb
+D:\Projects\StickyNotes\trunk\StickyNotes\obj\Debug\StickyNotes.csprojResolveAssemblyReference.cache
+D:\Projects\StickyNotes\trunk\StickyNotes\obj\Debug\StickyNotes.dll
+D:\Projects\StickyNotes\trunk\StickyNotes\obj\Debug\StickyNotes.pdb
